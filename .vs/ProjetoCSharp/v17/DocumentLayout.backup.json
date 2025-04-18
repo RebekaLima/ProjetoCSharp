@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|c:\\users\\rebek\\onedrive\\documentos\\porjetocsharp\\projetocsharp\\projetocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|solutionrelative:projetocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Program.cs",
+              "RelativeToolTip": "ProjetoCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:51:25.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
