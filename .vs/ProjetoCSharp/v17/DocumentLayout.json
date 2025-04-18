@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|c:\\users\\rebek\\onedrive\\documentos\\porjetocsharp\\projetocsharp\\projetocsharp\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|solutionrelative:projetocsharp\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|c:\\users\\rebek\\onedrive\\documentos\\porjetocsharp\\projetocsharp\\projetocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|solutionrelative:projetocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|c:\\users\\rebek\\onedrive\\documentos\\porjetocsharp\\projetocsharp\\projetocsharp\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|solutionrelative:projetocsharp\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|c:\\users\\rebek\\onedrive\\documentos\\porjetocsharp\\projetocsharp\\projetocsharp\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|solutionrelative:projetocsharp\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|c:\\users\\rebek\\onedrive\\documentos\\porjetocsharp\\projetocsharp\\projetocsharp\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|solutionrelative:projetocsharp\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|c:\\users\\rebek\\onedrive\\documentos\\porjetocsharp\\projetocsharp\\projetocsharp\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB47B5-0528-41BA-9F76-38255503303B}|ProjetoCSharp\\ProjetoCSharp.csproj|solutionrelative:projetocsharp\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Gerente.cs",
+              "RelativeDocumentMoniker": "ProjetoCSharp\\Gerente.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Gerente.cs",
+              "RelativeToolTip": "ProjetoCSharp\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:00:29.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProjetoCSharp\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Cliente.cs",
+              "RelativeToolTip": "ProjetoCSharp\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:00:03.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoCSharp\\Program.cs",
               "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Program.cs",
               "RelativeToolTip": "ProjetoCSharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T04:51:25.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ProjetoCSharp\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Pessoa.cs",
+              "RelativeToolTip": "ProjetoCSharp\\Pessoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:59:35.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteVip.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\ClienteVip.cs",
+              "RelativeDocumentMoniker": "ProjetoCSharp\\ClienteVip.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\ClienteVip.cs",
+              "RelativeToolTip": "ProjetoCSharp\\ClienteVip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:00:15.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ProjetoCSharp\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\PorjetoCsharp\\ProjetoCSharp\\ProjetoCSharp\\Funcionario.cs",
+              "RelativeToolTip": "ProjetoCSharp\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:59:53.5Z",
               "EditorCaption": ""
             }
           ]

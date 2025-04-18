@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoCSharp
 {
-    internal class Program
+    internal class ClienteVip
     {
-        static void Main(string[] args)
-        {
-  
-
-        }
     }
 }
