@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,6 +11,10 @@ namespace ProjetoCSharp
     {
         protected string nome;
         protected string email;
+
+        public string Nome { get; set; }
+
+        public string Email { get; set; }
 
         public virtual void cadastrarPessoa()
         {
@@ -25,5 +30,8 @@ namespace ProjetoCSharp
             Console.WriteLine("Nome:{0}", this.nome);
             Console.WriteLine("E-mail:{0}", this.email);
         }
+
+        
+
     }
 }

@@ -10,7 +10,10 @@ namespace ProjetoCSharp
     {
         static void Main(string[] args)
         {
-  
+            //Testando método adicionarDependentes
+
+            var rodrigo = new Funcionario();
+            rodrigo.adicionarDependentes();
 
         }
     }

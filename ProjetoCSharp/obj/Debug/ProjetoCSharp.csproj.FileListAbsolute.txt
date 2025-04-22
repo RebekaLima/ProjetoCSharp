@@ -1,0 +1,7 @@
+C:\Users\rebek\OneDrive\Documentos\PorjetoCsharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\rebek\OneDrive\Documentos\PorjetoCsharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\rebek\OneDrive\Documentos\PorjetoCsharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\rebek\OneDrive\Documentos\PorjetoCsharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.AssemblyReference.cache
+C:\Users\rebek\OneDrive\Documentos\PorjetoCsharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rebek\OneDrive\Documentos\PorjetoCsharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\rebek\OneDrive\Documentos\PorjetoCsharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
